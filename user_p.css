@@ -1,0 +1,152 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;  
+        font-family: Arial, sans-serif;
+        background-image: url('login.jpg');
+        background-size:cover;
+        background-position: center;
+        background-repeat: no-repeat ;
+        overflow-x: hidden;
+      
+      
+  }
+  header {
+    background: #333;
+    color: #fff;
+    padding: 20px 0;
+    overflow: hidden;
+  }
+  .container{
+    width: 80%;
+    margin: 0 auto;
+    overflow: hidden;
+    }
+    header h1 {
+       padding-left: 100px;
+
+      }
+      
+      nav ul {
+        float: right;
+        list-style: none;
+        margin: 0;
+        padding: 0;
+        padding-right: 50px;
+      }
+      
+      nav ul li {
+        display: inline;
+        margin-left: 20px;
+      }
+      
+      nav ul li a {
+        color: #fff;
+        text-decoration: none;
+      }
+      section {
+        padding: 80px 0;
+      }
+    
+
+        
+    .container_head3{
+        h1{
+            font-family:sans-serif;
+            font-weight:  700;
+            font-style: inherit;
+        }
+    }    
+    footer{
+      background: #333;
+      color: #fff;
+      text-align: center;
+      padding: 20px 0;
+  }
+  .container_h{
+    width: 505px;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+    } 
+   .container_head3{
+    color: #ffffffec;
+    font-size: 40px;
+   } 
+.search{
+    input[type=number], select {
+      width: 370px;
+      padding: 12px 20px;
+      margin: 8px 0;
+      display: inline-block;
+      border: 1px solid #ccc;
+      border-radius: 50px;
+      box-sizing: border-box;
+    }
+    .sub{
+      width: 100px;
+      padding: 10px;
+      background-color: #14c4cda7;
+      color: #fff;
+      border: none;
+      border-radius: 50px;
+      cursor: pointer;
+    } 
+    .sub1{
+      width: 108px;
+      padding: 10px;
+      background-color: #14c4cda7;
+      color: #fff;
+      border: none;
+      border-radius: 50px;
+      cursor: pointer;
+    } 
+.submit_btn{
+  width: 108px;
+    padding: 10px;
+    background-color: #14c4cda7;
+    color: #fff;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+}     
+    
+      border-radius: 50px;
+      background-color: #f2f2f227;
+      padding: 40px;
+      box-shadow: 0 0 2px rgba(0, 0, 0, 0.1);
+    height: 270px;
+    h1{
+      color: #fff;
+    }
+    
+}  
+
+#b1{
+    position: relative;
+    top: 90px;
+    left: 300px;
+    width: 200px;
+    height: 50px;
+    padding: 10px;
+    background-color: #14c4cda7;
+    color: #fff;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+  } 
+  #b2{
+    position: relative;
+    top: 40px;
+    left: 50px;
+    width: 200px;
+    height: 50px;
+    padding: 10px;
+    background-color: #14c4cda7;
+    color: #fff;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+  } 

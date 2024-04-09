@@ -1,0 +1,119 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    overflow-x:hidden ;
+    overflow-y:hidden ;
+  }
+  header {
+    background: #333;
+    color: #fff;
+    padding: 20px 0;
+  }
+  .container{
+    width: 80%;
+    margin: 0 auto;
+    overflow: hidden;
+    }
+    .container_home{
+        width: 1525px;
+        height: 507px;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: transparent;
+        } 
+        .container_view{
+          width: 1525px;
+          height: 437px;
+          margin: 0;
+          padding: 0;
+          overflow: hidden;
+          background-color: transparent;
+          } 
+    footer{
+        background: #333;
+        color: #fff;
+        text-align: center;
+        padding: 20px 0;
+    }
+
+ .login_container1 {
+  max-width: 1000px;
+  margin: 100px auto;
+  padding: 20px;
+  background-color: #ffffff61;
+  border-radius: 5px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+.profile {
+
+  input[type=number], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    background-color: rgba(255, 255, 255, 0.787);
+
+  }
+  input[type=text], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    background-color: rgba(255, 255, 255, 0.787);
+  }
+  input[type=email], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    background-color: rgba(255, 255, 255, 0.787);
+  }
+  input[type=password], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    background-color: rgba(255, 255, 255, 0.787);
+  }
+text-align: center;
+    
+}
+.input_container{
+  display: inline-block;
+  margin-right: 10px;
+}
+.input_container1{
+  display: inline-block;
+  margin-right: 10px;
+}
+.input_container2{
+  display: inline-block;
+  margin-right: 10px;
+}
+.input_container3{
+  display: inline-block;
+  margin-right: 12px;
+}
+button {
+  width: 150px;
+  padding: 10px;
+  background-color: #007bffc2;
+  color: #fff;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+}

@@ -1,0 +1,127 @@
+header {
+    background: #333;
+    color: #fff;
+    padding: 20px 0;
+  }
+  body{
+    margin: 0;
+    padding: 0;  
+  }
+ 
+  .truck {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;  
+        font-family: Arial, sans-serif;
+        background-image: url('login.jpg');
+        background-size:cover;
+        background-position: center;
+        background-repeat: no-repeat ;
+        overflow-x: hidden;
+        overflow-y: hidden;
+     height: 600px ; 
+     h1{
+        color: #fffffff8;
+        font-size: 70px;
+      }
+  }
+  
+  .contain{
+    width: 80%;
+    margin: 0 auto;
+    overflow: hidden;
+    }
+    header h1 {
+       padding-left: 100px;
+
+      }
+      
+      nav ul {
+        float: right;
+        list-style: none;
+        margin: 0;
+        padding: 0;
+        padding-right: 50px;
+      }
+      
+      nav ul li {
+        display: inline;
+        margin-left: 20px;
+      }
+      
+      nav ul li a {
+        color: #fff;
+        text-decoration: none;
+      }
+      section {
+        padding: 80px 0;
+      }
+      .container_home3{
+        width: 1525px;
+        height: 507px;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        } 
+
+        .container_head3{
+          
+            width: 500px;
+            height: 400px;
+        }
+    .container_head3{
+        h1{
+            font-family:sans-serif;
+            font-weight:  700;
+            font-style: inherit;
+        }
+    }    
+    
+  footer {
+    background: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+  }
+  .b1{
+    position: relative;
+    top: 0px;
+    left: 325px;
+    #b5{
+    width: 200px;
+    height: 50px;
+    padding: 10px;
+    background-color: #14c4cda7;
+    color: #fff;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+  } }
+  #b2{
+    position: relative;
+    top: 52px;
+    left: 50px;
+    width: 200px;
+    height: 50px;
+    padding: 10px;
+    background-color: #14c4cda7;
+    color: #fff;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+  } 
+  #b3{
+    position: relative;
+    bottom: 50px;
+    left: 600px;
+    width: 200px;
+    height: 50px;
+    padding: 10px;
+    background-color:#14c4cda7;
+    color: #fff;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+  } 
+ 
+  

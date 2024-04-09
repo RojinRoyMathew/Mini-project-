@@ -1,0 +1,56 @@
+body{
+    font-family: Arial, sans-serif;
+    background-image: url('home_usr_truc.jpg');
+    background-size:cover;
+    
+
+}
+.box{
+    position: relative;
+    top: 60px;
+    left: 300px;
+    width: 750px;
+    height: 500px;
+    background-color: transparent;
+    opacity: 500;
+    border-radius: 5px;
+    box-shadow: 0 0 150px rgba(0, 0, 0, 0.1);
+h1{
+    color: #fff;
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+}
+.b1 {
+    display: inline-block;
+    position: relative;
+    left: 45px; 
+    top: 60px;
+    padding: 10px 50px;
+    background: #007bff;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 3px;
+  }
+  
+  .b1:hover {
+    background: #0056b3;
+  }
+  .b2 {
+    position: relative;
+    left: 400px; 
+    top: 60px;
+    display: inline-block;
+    padding: 10px 30px;
+    background: #007bff;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 3px;
+    
+  }
+  
+  .b2:hover {
+    background: #0056b3;
+  }
